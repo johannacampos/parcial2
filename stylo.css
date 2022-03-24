@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap');
+.stylo {
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(165, 42, 42);
+    background-image:url(img/back.png);
+   }
+   h1{
+    font-family: 'PT Serif', serif;
+    color: rgb(165, 42, 42); 
+   }
+   h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(255, 92, 80); 
+   }
+   h3{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(255, 92, 80); 
+   }
+   h4{
+    font-family: 'Quicksand', sans-serif;
+    color:lightcoral;
+   }
+   h5{
+    font-family: 'Nunito Sans', sans-serif;
+    color: rgb(88, 145, 168);
+    font-weight:bold;
+   }
+   p{
+    font-family: 'Nunito Sans', sans-serif;
+    color: rgb(88, 145, 168);
+   }
+   th{
+    font-family: 'Nunito Sans', sans-serif;
+    color:indianred;   
+   }
+   .estilo {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    color: rgb(88, 145, 168);
+    background-color: rgb(255, 205, 190);
+  border-radius: 20px;
+  width: 100px;
+  padding: 20px;
+  margin: 20px; 
+   }
+   .a{
+       text-decoration: none;
+    }
+  
